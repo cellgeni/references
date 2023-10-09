@@ -59,13 +59,6 @@ path: /nfs/cellgeni/STAR/human/T2T/index
 </details>
 
 
-<details><summary>T2T</summary>
-path: /nfs/cellgeni/STAR/human/T2T/index
-</details>
-
-</details>
-
-
 <details><summary>Human with Covid</summary>
   
 <details><summary>GRCh38 Plus SARSCoV2</summary>
