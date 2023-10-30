@@ -1,9 +1,37 @@
-# Contents
-- [Fruit Fly](#Fruit_Fly)
+- [Fruit Fly](#fruit-fly)
+  * [BDGP6](#bdgp6)
+- [Human](#human)
+  * [2020A](#2020a)
+  * [2020A Full](#2020a-full)
+  * [2020A plus Plasmodium_Falciparum.EPr1.37](#2020a-plus-plasmodium-falciparumepr137)
+  * [2020A plus GCA_000149715.2_TGGT1_genomic](#2020a-plus-gca-0001497152-tggt1-genomic)
+  * [Gencode v19 Full](#gencode-v19-full)
+  * [Gencode v37 Full](#gencode-v37-full)
+  * [GRCh38-1.2.0](#grch38-120)
+  * [GRCh38-3.0.0](#grch38-300)
+  * [GRCh38-3.0.0 plus 3D7](#grch38-300-plus-3d7)
+  * [hg19-1.2.0](#hg19-120)
+  * [hg19-3.0.0](#hg19-300)
+  * [T2T](#t2t)
+- [Human with Covid](#human-with-covid)
+  * [GRCh38 Plus SARSCoV2](#grch38-plus-sarscov2)
+- [Human & Mouse](#human---mouse)
+  * [GRCh38-3.1.0](#grch38-310)
+- [Malaria](#malaria)
+  * [3D7](#3d7)
+- [Mouse](#mouse)
+  * [2020A](#2020a-1)
+  * [2020A Full](#2020a-full-1)
+  * [1.2.0](#120)
+  * [2.1.0](#210)
+  * [3.0.0](#300)
 - [Toxoplasma Gondii](#toxoplasma-gondii)
-- 
+  * [gt1_gca_00149715](#gt1-gca-00149715)
 
-# Fruit Fly <a name="Fruit_Fly"></a>
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+# Fruit Fly
 ## BDGP6
 <br>**STAR version** 2.7.9a
 <br>**Path:**
