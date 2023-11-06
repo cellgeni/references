@@ -28,9 +28,6 @@
 - [Toxoplasma Gondii](#toxoplasma-gondii)
   * [gt1_gca_00149715](#gt1-gca-00149715)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 # Fruit Fly
 ## BDGP6
 <br>**STAR version** 2.7.9a
