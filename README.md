@@ -26,7 +26,7 @@
   * [2.1.0](#210)
   * [3.0.0](#300)
 - [Toxoplasma Gondii](#toxoplasma-gondii)
-  * [gt1_gca_00149715](#gt1-gca-00149715)
+  * [gt1_gca_00149715](#gt1_gca_00149715)
 
 # Fruit Fly
 ## BDGP6
