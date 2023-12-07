@@ -10,6 +10,7 @@
   * [GRCh38-1.2.0](#grch38-120)
   * [GRCh38-3.0.0](#grch38-300)
   * [GRCh38-3.0.0 plus 3D7](#grch38-300-plus-3d7)
+  * [GRCh38 15 plus hs38d1 and ensembl 90 transcriptome](#GRCh38-15-plus-hs38d1-and-ensembl-90-transcriptome)
   * [hg19-1.2.0](#hg19-120)
   * [hg19-3.0.0](#hg19-300)
   * [T2T](#t2t)
