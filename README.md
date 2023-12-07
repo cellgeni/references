@@ -360,6 +360,7 @@ STAR   --runMode genomeGenerate      --runThreadN 4   --genomeDir STAR   --genom
 | chrY | 57227415 |
 | chrM | 16569 |
 | chr1_KI270706v1_random | 175055 |
+
 <br>Please see <em>/nfs/cellgeni/STAR/human/GRCh38_15_plus_hs38d1-and-ensembl_90_transcriptome/star/index/Log.out</em> for more information/Chromosomes
 <br>**Build Command:**
 
