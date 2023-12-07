@@ -330,6 +330,43 @@ STAR   --runMode genomeGenerate   --runThreadN 4   --genomeDir STAR   --genomeFa
 ```
 STAR   --runMode genomeGenerate      --runThreadN 4   --genomeDir STAR   --genomeFastaFiles combo.fa      --sjdbGTFfile combo.gtf
 ```
+## GRCh38 15 plus hs38d1 and ensembl 90 transcriptome
+<br>**STAR version:** 2.7.9a
+<br>**Path:**
+
+```
+/nfs/cellgeni/STAR/human/GRCh38_15_plus_hs38d1-and-ensembl_90_transcriptome/star/index
+```
+ **Gene Count:** 60675
+<br>**Genome sequence total length:** 3105715063
+<br>**Chromosome Names:** chr1, chr2, chr3, chr1_KI270706v1_random, chrUn_GL000216v2, chrUn_GL000218v1, chrEBV, chrUn_KN707606v1_decoy, chrUn_KN707607v1_decoy
+<br>**Chromosome Lenght:**
+| Chromosome | Length |
+|------------|-----------|
+| chr1  | 248956422 |
+| chr2 | 242193529 |
+| chr3 | 198295559 |
+| chr4 | 190214555 |
+| chr5 | 181538259 |
+| chr6 | 170805979 |
+| chr17 | 83257441 |
+| chr18 | 80373285 |
+| chr19 | 58617616 |
+| chr20 | 64444167 |
+| chr21 | 46709983 |
+| chr22 | 50818468 |
+| chrX | 156040895 |
+| chrY | 57227415 |
+| chrM | 16569 |
+| chr1_KI270706v1_random | 175055 |
+<br>Please see <em>/nfs/cellgeni/STAR/human/GRCh38_15_plus_hs38d1-and-ensembl_90_transcriptome/star/index/Log.out</em> for more information/Chromosomes
+<br>**Build Command:**
+
+```
+/software/cellgeni/STAR-2.7.9a/bin/Linux_x86_64/STAR   --runMode genomeGenerate      --runThreadN 16   --genomeDir index   --genomeFastaFiles /lustre/scratch125/core/sciops_repository/references/Human/GRCh38_15_plus_hs38d1/all/fasta/Homo_sapiens.GRCh38_15_plus_hs38d1.fa      --sjdbGTFfile /nfs/srpipe_references/transcriptomes/Homo_sapiens/ensembl_83_transcriptome/GRCh38_15_plus_hs38d1/gtf/ensembl_83_transcriptome-GRCh38_15_plus_hs38d1.gtf
+```
+
+
 ## hg19-1.2.0
 **No STAR index built yet**
 <br> **Path:**
