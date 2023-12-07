@@ -367,8 +367,6 @@ STAR   --runMode genomeGenerate      --runThreadN 4   --genomeDir STAR   --genom
 ```
 /software/cellgeni/STAR-2.7.9a/bin/Linux_x86_64/STAR   --runMode genomeGenerate      --runThreadN 16   --genomeDir index   --genomeFastaFiles /lustre/scratch125/core/sciops_repository/references/Human/GRCh38_15_plus_hs38d1/all/fasta/Homo_sapiens.GRCh38_15_plus_hs38d1.fa      --sjdbGTFfile /nfs/srpipe_references/transcriptomes/Homo_sapiens/ensembl_83_transcriptome/GRCh38_15_plus_hs38d1/gtf/ensembl_83_transcriptome-GRCh38_15_plus_hs38d1.gtf
 ```
-
-
 ## hg19-1.2.0
 **No STAR index built yet**
 <br> **Path:**
